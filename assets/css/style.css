@@ -308,6 +308,10 @@ section ul li a:hover {
   margin-bottom: 15px;
 }
 
+.column article-links ul ul{
+  font-weight: normal;
+}
+
 .various_links .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -327,6 +331,7 @@ section ul li a:hover {
 
 .various_links ul li {
   margin: 6px 0;
+  font-weight: normal;
 }
 
 .various_links a {

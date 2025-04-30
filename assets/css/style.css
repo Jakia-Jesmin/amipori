@@ -252,7 +252,7 @@ section ul li {
 section ul li a {
   color: #003147; /* Dark blue color for links */
   text-decoration: none;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 section ul li a:hover {

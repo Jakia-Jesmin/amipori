@@ -317,7 +317,7 @@ section ul li a:hover {
   max-width: 1200px;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: auto auto auto auto;
   gap: 20px;
 }
 
